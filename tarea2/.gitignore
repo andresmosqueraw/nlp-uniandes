@@ -8,4 +8,4 @@ requirements.txt
 20news-18828.tar.gz
 BAC.zip
 *.zip
-tarea.pdf
+*.sents
